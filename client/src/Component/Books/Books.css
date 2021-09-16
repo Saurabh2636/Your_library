@@ -1,0 +1,11 @@
+.Data{
+    cursor: pointer;
+    
+}
+.Data:hover{
+    background-color: rgb(206, 218, 228);
+}
+
+.image{
+    height:20vh
+}

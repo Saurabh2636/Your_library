@@ -1,0 +1,10 @@
+.main{
+    height:auto;
+    width:90vh;
+}
+
+.form-actions {
+    margin: 0;
+    text-align: center;
+    margin-bottom: 20px;
+}
